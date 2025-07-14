@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My Coding Journey</title>
+  <title>My Metro Coding Journey</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 
   <header>
-    <h1>My Coding Journey</h1>
-    <p><strong>By:</strong> Jane Doe | <time datetime="2025-07-10">July 10, 2025</time></p>
+    <h1>My Metro Coding Journey</h1>
+    <p><strong>By:</strong> Marvellous Chibuzor N | <time datetime="2025-07-14">July 14, 2025</time></p>
     <hr>
   </header>
 
@@ -69,8 +69,8 @@
 
   <footer>
     <hr>
-    <p>&copy; 2025 Jane Doe. All rights reserved.</p>
-    <address>Contact me at <a href="mailto:jane@example.com">jane@example.com</a></address>
+    <p>&copy; 2025 Marvellous N. All rights reserved.</p>
+    <address>Contact me at <a href="marvingaye4lyfey@gmail.com.com">marvingaye4lyfey@gmail.com</a></address>
   </footer>
 
 </body>
