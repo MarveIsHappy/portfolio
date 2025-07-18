@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-
+   <main>
   <header>
     <h1>My Metro Coding Journey</h1>
     <p><strong>By:</strong> Marvellous Chibuzor N | <time datetime="2025-07-14">July 14, 2025</time></p>
@@ -66,7 +66,7 @@
     <p>As they say:</p>
     <q>Practice makes perfect.</q>
   </section>
-
+  </main>
   <footer>
     <hr>
     <p>&copy; 2025 Marvellous N. All rights reserved.</p>
